@@ -1,0 +1,18 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.github.pipeworx-io/dane-gov-pl",
+  "title": "Dane Gov Pl",
+  "description": "dane.gov.pl — Poland's national open data portal (Otwarte Dane).",
+  "version": "0.1.0",
+  "websiteUrl": "https://pipeworx.io/packs/dane-gov-pl",
+  "repository": {
+    "url": "https://github.com/pipeworx-io/mcp-dane-gov-pl",
+    "source": "github"
+  },
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://gateway.pipeworx.io/dane-gov-pl/mcp"
+    }
+  ]
+}
