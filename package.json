@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-dane-gov-pl",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "dane.gov.pl — Poland's national open data portal (Otwarte Dane).",
   "type": "module",
   "main": "src/index.ts",
@@ -26,7 +26,7 @@
     "@cloudflare/workers-types": "^4.20260405.1"
   },
   "pipeworx": {
-    "sourceHash": "v1-4f94500f35acccb33ccdf215638e0b317d059165e95aa950d88a661342bd2fd0",
-    "sourceCommit": "60f04b68c347e970c6be94a53439d1364061fc06"
+    "sourceHash": "v1-fc0229266f68d790bdbb4eed276b619e22cea58594a8df809946c22ea9b415ae",
+    "sourceCommit": "5b29c2b0c11e1fcd954969a245b474e6e9475116"
   }
 }
